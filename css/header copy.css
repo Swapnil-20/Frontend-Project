@@ -1,3 +1,5 @@
+/* Set a style for all elements inside the header i.e. Sign Up button, Sign In button, 
+the title "ScriBBler" & the sub-heading below "ScriBBLer" */
 .signB
 {
     right: 0.5%;
@@ -24,7 +26,7 @@
 {
     font-family: 'Marck Script';
      font-size: 15px;
-     color: white;
+     color: black;
     position: relative;
     left:20px;
     width: 50%;
